@@ -1,8 +1,10 @@
 # Namaadhu app
 An app to provide prayer times for the islands of the Maldives written in flutter. It uses db from salat mv app to get the prayer times
 
-![prayertime_view](images/prayertime_view.png =250x)
-![island_view](images/island_view.png =250x)
+
+<img src="images/prayertime_view.png" width="250">
+<img src="images/island_view.png" width="250">
+
 
 # Build 
 
