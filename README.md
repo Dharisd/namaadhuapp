@@ -11,7 +11,7 @@ An app to provide prayer times for the islands of the Maldives written in flutte
 # Build 
 
 ```flutter build apk --release ```
-pre built apks availabe [here](https://github.com/Dharisd/namaadhuapp/releases)
+pre built apks available [here](https://github.com/Dharisd/namaadhuapp/releases)
 
 
 # Todo
