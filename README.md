@@ -15,6 +15,8 @@ pre built apks availabe here
 
 
 # Todo
+* refactor code base
 * fix scaling issues
-* change current open prayertime view when selected island chnages instead of opening new view
+* Add notification support
+* change current open prayertime view when selected island changesinstead of opening new view
 
