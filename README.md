@@ -6,7 +6,7 @@ An app to provide prayer times for the islands of the Maldives written in flutte
 
 # Build 
 
-```bash flutter build apk --release ``
+```flutter build apk --release ```
 pre built apks availabe here
 
 
